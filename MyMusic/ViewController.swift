@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     
     @IBAction func play(_ sender: Any) {
         soundPlayer(player: &backmusicPlayer, path: backmusicPath, count: -1)
-    }
+    }∑
     
     @IBAction func stop(_ sender: Any) {
         // stop bgm
